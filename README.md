@@ -12,9 +12,7 @@ Split the dataset into control (blue button) and treatment (green button) groups
 Verified balanced group assignment and corrected any data imbalance using stratified sampling.
 Calculating Conversion Rates:
 
-Computed the conversion rate for both groups as:
-Conversion Rate
-=
+Compute the Conversion rate as 
 Number of Sign-ups
 Total Visitors
 Conversion Rate= 
