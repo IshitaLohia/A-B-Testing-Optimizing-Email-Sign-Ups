@@ -13,12 +13,7 @@ Verified balanced group assignment and corrected any data imbalance using strati
 Calculating Conversion Rates:
 
 Compute the Conversion rate as 
-Number of Sign-ups
-Total Visitors
-Conversion Rate= 
-Total Visitors
-Number of Sign-ups
-​
+Number of Sign-ups/Total Visitors
  
 Statistical Hypothesis Testing:
 
